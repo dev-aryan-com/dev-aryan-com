@@ -7,7 +7,8 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in **web
 ## 🚀 About Me
 - 🔭 I’m currently working on **Personal Telegram Bot**
 - 🌱 I’m currently learning **JavaScript, Python, AI, GitHub**
-- 👯 I’m looking to collaborate on **open-source projects, web development**l
+- 👯 I’m looking to collaborate on **open-source projects, web development**
+- 📝 I regularly write blogs on **https://dev-aryan.blogspot.com/**
 - 💬 Ask me about **HTML, CSS, JavaScript, Python**
 - 📫 How to reach me: **aryanraj7167@outlook.com**
 - ⚡ Fun fact: **I shoot Cinematography videos, make international friends!**
