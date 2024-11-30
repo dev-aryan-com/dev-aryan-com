@@ -49,4 +49,8 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in **web
 
 ---
 
+![Visitor Count](https://komarev.com/ghpvc/?username=dev-aryan-com&color=blue&style=flat)
+
+---
+
 ⭐️ From [Aryan Raj](https://github.com/dev-aryan-com)
