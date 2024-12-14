@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in **web
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Personal Telegram Bot**
+- 🔭 I’m currently working on **Something new in Python**
 - 🌱 I’m currently learning **JavaScript, Python, AI, GitHub**
 - 👯 I’m looking to collaborate on **open-source projects, web development**
 - 📝 I regularly write blogs on **https://dev-aryan.blogspot.com/**
